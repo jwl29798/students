@@ -1,0 +1,8 @@
+ 1:| Benjamin   | Adovasio        | Student |
+ 2:| Xander     | Frey            | Student |
+ 3:| An         | Le              | student |
+ 4:| Jiwon      | Lee             | Student |
+ 5:| Norland    | Ramirez         | Student |
+ 6:| Stuart     | Saltonstall     | student |
+ 7:| Scarlett   | Werns           | Student |
+ 8:| Dexter     | Werns           | Student |
