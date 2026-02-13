@@ -1,0 +1,4 @@
+Created 8 students in the class and their grades into the student_and_grades.txt file. 
+Created another file with student names as well as to the other .txt file.
+Committed and added another entry in the following file.
+Inserted another entry. 
